@@ -1,2 +1,2 @@
 # JavaChatUtility
-A basic Java based chat client and server for instant messaging.
+A basic Java based GUI chat client and server for instant messaging.
